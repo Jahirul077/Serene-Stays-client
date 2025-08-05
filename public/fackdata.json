@@ -1,0 +1,112 @@
+[
+  {
+    "room_type": "Standard Room",
+    "price_per_night": 3000,
+    "currency": "BDT",
+    "room_size": "25 sqm",
+    "availability": "Available",
+    "images": "https://i.postimg.cc/kgfXvVY5/room-1.jpg",
+    "special_offers": "Stay 2 nights and get 5% off",
+    "description": "The Standard Room provides all essential amenities to ensure a comfortable stay. This cozy room is ideal for guests looking for a budget-friendly option without compromising on comfort. It includes basic facilities like air conditioning, a flat-screen TV, complimentary Wi-Fi, and a well-equipped bathroom.",
+    "facilities": ["Free Wi-Fi", "Air Conditioning", "Flat-Screen TV", "Room Service"]
+  },
+  {
+    "room_type": "Deluxe Room",
+    "price_per_night": 4500,
+    "currency": "BDT",
+    "room_size": "30 sqm",
+    "availability": "Available",
+    "images": "https://i.postimg.cc/rF2mV2tq/room-10.jpg",
+    "special_offers": null,
+    "description": "The Deluxe Room offers additional space and comfort, featuring a queen-size bed and modern decor that creates a relaxing ambiance. With upgraded amenities including a larger bathroom, in-room coffee and tea facilities, and a mini-bar.",
+    "facilities": ["Free Wi-Fi", "Air Conditioning", "Queen-Size Bed", "Mini-Bar", "Coffee/Tea Maker"]
+  },
+  {
+    "room_type": "Premium Deluxe Room",
+    "price_per_night": 6000,
+    "currency": "BDT",
+    "room_size": "40 sqm",
+    "availability": "Available",
+    "images": "https://i.postimg.cc/hP8GhZ9T/room-11.jpg",
+    "special_offers": "Stay 3 nights and get 15% off",
+    "description": "Our Premium Deluxe Room combines elegance and comfort, providing guests with a spacious layout and luxurious amenities. The room includes all essential amenities and offers added extras such as a mini-bar and premium toiletries.",
+    "facilities": ["King-Size Bed", "City View", "Mini-Bar", "Premium Toiletries", "Room Service"]
+  },
+  {
+    "room_type": "Junior Suite",
+    "price_per_night": 7500,
+    "currency": "BDT",
+    "room_size": "45 sqm",
+    "availability": "Available",
+    "images": "https://i.postimg.cc/YCpCFN3V/room-12.jpg",
+    "special_offers": "Complimentary breakfast",
+    "description": "The Junior Suite is designed for travelers seeking more space and luxury. Featuring a separate sitting area, this suite provides an excellent atmosphere for relaxation and work.",
+    "facilities": ["Separate Sitting Area", "Complimentary Breakfast", "City View", "Flat-Screen TV", "Mini-Bar"]
+  },
+  {
+    "room_type": "Executive Suite",
+    "price_per_night": 9500,
+    "currency": "BDT",
+    "room_size": "50 sqm",
+    "availability": "Limited",
+    "images": "https://i.postimg.cc/BnsXgfqm/room-2.jpg",
+    "special_offers": "Free airport pickup",
+    "description": "Our Executive Suite offers unmatched luxury with spacious living areas, a king-size bed, and high-end amenities.",
+    "facilities": ["Free Airport Pickup", "King-Size Bed", "Living Area", "Mini-Bar", "In-Room Safe"]
+  },
+  {
+    "room_type": "Presidential Suite",
+    "price_per_night": 15000,
+    "currency": "BDT",
+    "room_size": "70 sqm",
+    "availability": "Limited",
+    "images": "https://i.postimg.cc/Hk2jvvnd/room-3.jpg",
+    "special_offers": "VIP service package included",
+    "description": "The Presidential Suite is the pinnacle of luxury and exclusivity, offering a grand living space equipped with premium furnishings and top-of-the-line amenities.",
+    "facilities": ["VIP Service Package", "Private Dining Area", "Jacuzzi", "City View", "Butler Service"]
+  },
+  {
+    "room_type": "Family Room",
+    "price_per_night": 5000,
+    "currency": "BDT",
+    "room_size": "35 sqm",
+    "availability": "Available",
+    "images": "https://i.postimg.cc/fW9yQRyH/room-9.jpg",
+    "special_offers": "Kids stay free under age 12",
+    "description": "The Family Room is designed with families in mind, offering extra space and bedding options to accommodate additional guests.",
+    "facilities": ["Extra Bedding Options", "Kids Stay Free", "Flat-Screen TV", "Mini-Refrigerator", "Room Service"]
+  },
+  {
+    "room_type": "Single Room",
+    "price_per_night": 2500,
+    "currency": "BDT",
+    "room_size": "20 sqm",
+    "availability": "Available",
+    "images": "https://i.postimg.cc/QC1dQ0vL/room-8.jpg",
+    "special_offers": null,
+    "description": "The Single Room is perfect for solo travelers, offering a compact and cozy space with all essential amenities.",
+    "facilities": ["Single Bed", "Free Wi-Fi", "Flat-Screen TV", "Room Service", "Compact Bathroom"]
+  },
+  {
+    "room_type": "Double Room",
+    "price_per_night": 3500,
+    "currency": "BDT",
+    "room_size": "28 sqm",
+    "availability": "Available",
+    "images": "https://i.postimg.cc/xCWdNWxy/room-7.jpg",
+    "special_offers": "Stay 4 nights, pay for 3",
+    "description": "The Double Room is an ideal choice for couples or friends traveling together, featuring a double bed and modern decor.",
+    "facilities": ["Double Bed", "Free Wi-Fi", "Mini-Refrigerator", "Room Service", "Comfortable Seating"]
+  },
+  {
+    "room_type": "Honeymoon Suite",
+    "price_per_night": 10000,
+    "currency": "BDT",
+    "room_size": "60 sqm",
+    "availability": "Limited",
+    "images": "https://i.postimg.cc/R0ph43wY/room-6.jpg",
+    "special_offers": "Free romantic dinner setup",
+    "description": "The Honeymoon Suite is a beautifully designed space tailored for newlyweds and couples, offering a romantic ambiance.",
+    "facilities": ["King-Size Bed", "Romantic Dinner Setup", "Private Balcony", "Room Service", "Luxury Bathroom"]
+  }
+]
